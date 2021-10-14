@@ -1,4 +1,17 @@
-### Hi there 👋
+```
++------------------------------------------------+
+|              /--------------------------\      |
+|             |                            |     |
+| |\/\/\/|   /    Welcome to andy's page    \    |
+| |      |   |                              |    |
+| | (o)(o)   \_   _________________________/     |
+| c      _)    | /                               |
+|  | '___|    <_/                                |
+|  |   /                                         |
+|  /____\                                        |
+| /      \                                       |
++------------------------------------------------+
+```
 
 <!--
 **andyGallagher/andyGallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
